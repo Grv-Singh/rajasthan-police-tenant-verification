@@ -53,16 +53,16 @@ Edit `config.json` with your tenant and landlord information:
     "state": "RAJASTHAN",
     "district": "RAJSAMAND",
     "police_station": "NATHADAWARA",
-    "mobile": "7878962976",
-    "permanent_address": "Tehsil Road, Nathdwara, PO: Nathdwara, Dist: Rajsamand, Rajasthan - 313301",
+    "mobile": "999999999",
+    "permanent_address": "xyz",
     "id_type": "Aadhar Card",
-    "id_number": "838464568357",
+    "id_number": "999999999",
     "photo_path": "tenant_photo.jpg",
     "id_proof_path": "tenant_id.jpg"
   },
   "rented_property": {
     "purpose": "Residence",
-    "address": "Room 2, A-31, Arjunpuri-1, Link Road, Imli Phatak, Jaipur - 302015"
+    "address": "xyz"
   },
   "landlord": {
     "first_name": "Pramod",
@@ -70,11 +70,11 @@ Edit `config.json` with your tenant and landlord information:
     "father_first_name": "Ram",
     "father_middle_name": "Charan",
     "father_last_name": "Jagrawal",
-    "mobile": "9929990041",
+    "mobile": "999999999",
     "address": "A-31, Arjunpuri-1, Link Road, Imli Phatak, Jaipur, Rajasthan - 302015",
     "district": "JAIPUR SOUTH",
     "police_station": "JYOTI NAGAR",
-    "referenced_by": "GAURAV SINGH 8946968876"
+    "referenced_by": "GAURAV SINGH 999999999"
   }
 }
 ```
